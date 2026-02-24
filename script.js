@@ -1,0 +1,1 @@
+﻿console.log("introduction to variables in JS");
